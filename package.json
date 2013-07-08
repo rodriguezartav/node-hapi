@@ -1,5 +1,5 @@
 {
-  "name": "Hapi",
+  "name": "node-hapi",
   "version": "0.0.1",
   "description": "Hapi is a super lightweight framework to build APIs with stantdard and custom REST and security policies",
   "main": "index.js",
@@ -18,6 +18,6 @@
     "rest"
   ],
   "bugs": {
-    "url": "https://github.com/rodriguezartav/Hapi/issues"
+    "url": "https://github.com/rodriguezartav/node-hapi/issues"
   }
 }
