@@ -1,0 +1,23 @@
+{
+  "name": "Hapi",
+  "version": "0.0.1",
+  "description": "Hapi is a super lightweight framework to build APIs with stantdard and custom REST and security policies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodriguezartav/Hapi"
+  },
+  "author": "Roberto Rodriguez",
+  "license": "MIT",
+  "keywords": [
+    "nodejs",
+    "api",
+    "rest"
+  ],
+  "bugs": {
+    "url": "https://github.com/rodriguezartav/Hapi/issues"
+  }
+}
